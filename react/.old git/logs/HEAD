@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 674476d967436c5ea42f8f3776ae6c5a7b1fdda6 mitrofanov <dima.m.96@mail.ru> 1670406543 +0300	commit (initial): init commit
+674476d967436c5ea42f8f3776ae6c5a7b1fdda6 f3bafc0320f992a0e1476ad33a87bde4554755ec mitrofanov <dima.m.96@mail.ru> 1670422706 +0300	commit: change redux-thunk to redux-saga
+f3bafc0320f992a0e1476ad33a87bde4554755ec 3e52b4900b9226c7dea65dcc5f2b40eb568a61c7 mitrofanov <dima.m.96@mail.ru> 1670503156 +0300	commit: add saga with pause and waiting another saga
+3e52b4900b9226c7dea65dcc5f2b40eb568a61c7 8f493961b5a522016aed22dff1a1f2cccac8dfbb mitrofanov <dima.m.96@mail.ru> 1671006604 +0300	commit: add tests
+8f493961b5a522016aed22dff1a1f2cccac8dfbb 7dce3e5fdeb40ab23e7fbf17f5f1f751079547ba mitrofanov <dima.m.96@mail.ru> 1671020443 +0300	commit: add e2e test, and create ttd component
+7dce3e5fdeb40ab23e7fbf17f5f1f751079547ba ef598f85de7b3b0001be8a737a6e3400144ea719 mitrofanov <dima.m.96@mail.ru> 1671020549 +0300	commit: init
